@@ -144,7 +144,7 @@ Instead of hardcoding (writing fixed values directly in code) sensitive data lik
 cd "C:\..\emoji_installation"
 ```
 
-1. Set variables like this:
+Set variables like this:
 ### Powershell
 ```powershell
 $env:DISCORD_TOKEN="your_bot_token_here"
