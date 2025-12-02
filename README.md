@@ -139,8 +139,6 @@ Open this link → select your server → click **Authorise**.
 Instead of hardcoding (writing fixed values directly in code) sensitive data like your token, you can use **environment variables**:
 
 1. Open PowerShell / CMD(Terminal) and type `cd` and your folder path to `emoji_installation` (alternatively create a new folder where the [python file](#-code) is located at):
-
-![Alt Text](videos-images/server.png) 
     
 ```python
 cd "C:\..\emoji_installation"
