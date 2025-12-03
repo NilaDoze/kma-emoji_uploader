@@ -13,7 +13,10 @@ This script allows bot owners to automatically upload all images from a folder a
 
 Check out my custom emojis [here](https://ko-fi.com/s/b60e1dd308).
 
-If you feel like supporting my work, donations are welcome [here](https://ko-fi.com/niladoze).
+>If you feel like supporting my work, donations are welcome:
+>
+>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/niladoze) 
+
 ## ⚙️ Prerequisites
 
 Before using the Discord Emoji Uploader, make sure you have the following:
